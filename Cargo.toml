@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 num = "0.4.1"
+
+[dev-dependencies]
+plotly = { version = "0.8.4", features = ["kaleido"] }
